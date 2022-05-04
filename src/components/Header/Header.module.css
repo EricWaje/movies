@@ -1,0 +1,26 @@
+.header {
+    background-color: black;
+    padding: 15px 18px;
+}
+
+.header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header nav h2 {
+    color: white;
+}
+
+.header nav ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header nav ul a {
+    margin: 0px 10px;
+    text-decoration: none;
+    color: white;
+}

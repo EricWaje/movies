@@ -1,0 +1,28 @@
+.containerDetail {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 10px 15px;
+    margin: 20px 0px;
+}
+
+.containerDetail img {
+    width: 350px;
+}
+
+.containerDetailInfo {
+    width: 50%;
+}
+
+.containerDetailInfo h2 {
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.containerDetailInfo p {
+    margin-bottom: 5px;
+}
+
+.containerDetailInfo h3 {
+    font-size: 17px;
+}
